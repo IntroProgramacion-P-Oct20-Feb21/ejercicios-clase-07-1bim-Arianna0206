@@ -5,11 +5,13 @@
 
 1. Inicio
 2. num, i[0, n]
+3. cadenaFinal, x(200) [{0,9},{/}]
 3. Para(num<--1, num<=10, 2) haga
-4. // empieza en 1, itera hasta que num sea menor o igual a 10, incrementos de 1
-5.     Escribir num
+4.     // empieza en 1, itera hasta que num sea menor o igual a 10, incrementos de 1
+5.     numero <-- numero + 1
 6. Fin_Para 
-7. Fin
+7. Escribir cadenaFinal
+8. Fin
 
 // salida
 // 1
